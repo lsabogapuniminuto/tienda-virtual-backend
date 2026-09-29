@@ -1,0 +1,18 @@
+target/
+bin/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IDE ###
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated/
+.sts4-cache/
+
+### OS ###
+.DS_Store
+Thumbs.db
